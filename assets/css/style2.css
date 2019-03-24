@@ -1,0 +1,47 @@
+body{
+	background-image: url("../img/bg-body.jpg");
+}
+form{
+	margin: 0 auto;
+	margin-top: 10%;
+	width: 550px;
+	background-image: url("../img/bg-form.jpeg");
+	box-shadow: 5px 5px 30px #000000;
+
+}
+div.form-row label.aw{
+	margin-top: 10%;
+}
+input[type=email]{
+	border:none;
+	opacity: 0.6;
+}
+input[type=password]{
+	border:none;
+	opacity: 0.6;
+}
+input[type=text]{
+	border:none;
+	opacity: 0.6;
+}
+select{
+	border:none;
+	opacity: 0.6;
+}
+img{
+	margin-top: 5%;
+	margin-bottom: 30%;
+	height: 25%;
+	width: 25%;
+}
+div.form-group p a{
+	font-size: 10pt;
+	text-decoration: none;
+}
+p{
+	font-size: 10pt;
+}
+div.form-row textarea#alamatz{
+	border:none;
+	opacity: 0.6;
+}
